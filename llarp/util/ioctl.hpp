@@ -7,6 +7,7 @@
 #include <cerrno>
 #include <cstring>
 #include <stdexcept>
+#include <fstream>
 
 namespace llarp::util
 {
